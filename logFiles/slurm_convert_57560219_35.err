@@ -1,0 +1,6 @@
+
+EnvironmentNameNotFound: Could not find conda environment: 205
+You can list all discoverable environments with `conda info --envs`.
+
+
+/var/spool/slurmd/job57560257/slurm_script: line 35: TASK_ID: 02d: value too great for base (error token is "02d")
